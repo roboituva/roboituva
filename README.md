@@ -2,7 +2,7 @@
 
   <img src="https://lh3.googleusercontent.com/a/ACg8ocKh-FYA96FWYOaGuNNxKQlD5aN0zk3y4CLEi7tyTYTiTKH7Zs4=s288-c-no" width="120" alt="Robot Logo" />
 
-  # Olá, nós somos a Equipe Roboituva!
+  # Olá, nós somos a Equipe roBoiTuVa!
 
   ### Instituto Federal de São Paulo - Câmpus Boituva
 
