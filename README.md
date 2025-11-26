@@ -55,13 +55,18 @@ Aqui estão algumas das tecnologias, linguagens e áreas que exploramos em nosso
 
 Confira os colaboradores que fazem a Roboituva acontecer:
 
-| Nome | LinkedIn |
+| Nome | LinkedIn / Lattes |
 | :--- | :---: |
 | **Marcelo Frate - Professor Doutor** | <a href="https://www.linkedin.com/in/marcelofrate/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
+| **Andressa Macedo Rosa - Professor Doutor** | <a href="http://lattes.cnpq.br/2399377471499288"><img src="https://img.shields.io/badge/-Lattes-green?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
+| **Leandro Jose Lopes de Camargo - Professor Especialista** | <a href="http://lattes.cnpq.br/9722748090532343"><img src="https://img.shields.io/badge/-Lattes-green?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
+| **Percy Javier Igei Kaneshiro - Professor Doutor** | <a href="http://lattes.cnpq.br/4244899331556252"><img src="https://img.shields.io/badge/-Lattes-green?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **Emerson Junior - Monitor de Robótica e Programador** | <a href="https://www.linkedin.com/in/%C3%A9merson-j%C3%BAnior-a3b216214/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **Mateus de Melo - Programador** | <a href="https://www.linkedin.com/in/mateusdemelo/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **Flavia Goes - Bolsista de Iniciação Científica e Programadora** | <a href="https://www.linkedin.com/in/flaviagoes/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **David Barbosa - Bolsista de Iniciação Científica e Programador** | <a href="https://www.linkedin.com/in/david-barbosa-29521a266/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
+| **David Barbosa - Bolsista de Iniciação Científica e Programador** | <a href="https://www.linkedin.com/in/david-barbosa-29521a266/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
+| **Jose Carlos Fonseca Filho - Técnico de Laboratório** |-|
 
 ---
 
