@@ -65,7 +65,6 @@ Confira os colaboradores que fazem a Roboituva acontecer:
 | **Mateus de Melo - Programador** | <a href="https://www.linkedin.com/in/mateusdemelo/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **Flavia Goes - Bolsista de Iniciação Científica e Programadora** | <a href="https://www.linkedin.com/in/flaviagoes/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **David Barbosa - Bolsista de Iniciação Científica e Programador** | <a href="https://www.linkedin.com/in/david-barbosa-29521a266/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
-| **David Barbosa - Bolsista de Iniciação Científica e Programador** | <a href="https://www.linkedin.com/in/david-barbosa-29521a266/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **Jose Carlos Fonseca Filho - Técnico de Laboratório** |-|
 
 ---
