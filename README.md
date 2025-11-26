@@ -57,7 +57,7 @@ Confira os colaboradores que fazem a Roboituva acontecer:
 
 | Nome | LinkedIn / Lattes |
 | :--- | :---: |
-| **Professor Dr. Marcelo Frate** | <a href="https://www.linkedin.com/in/marcelofrate/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
+| **Professor Dr. Marcelo Frate** | <a href="http://lattes.cnpq.br/8632724748282199"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **Professora Dra. Andressa Macedo Rosa** | <a href="http://lattes.cnpq.br/2399377471499288"><img src="https://img.shields.io/badge/-Lattes-green?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **Professora Esp. Leandro Jose Lopes de Camargo** | <a href="http://lattes.cnpq.br/9722748090532343"><img src="https://img.shields.io/badge/-Lattes-green?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
 | **Professora Dra. Percy Javier Igei Kaneshiro** | <a href="http://lattes.cnpq.br/4244899331556252"><img src="https://img.shields.io/badge/-Lattes-green?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> |
